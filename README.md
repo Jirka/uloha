@@ -10,11 +10,15 @@ Vstup
 
 ###### Formát vstupu
 
-```xml
+Vstupem jsou XML data specifiková následujícím DTD:
+
+```dtd
 
 ```
 
 ###### Ukázka vstupu
+
+Vstup může vypada např. takto:
 
 ```xml
 
@@ -25,11 +29,15 @@ Výstup
 
 ###### Formát výstupu
 
+Ladoc je jednoduchý jazyk specifikovaný následující gramatikou:
+
 ```
 
 ```
 
 ###### Ukázka výstupu
+
+Pro ukázkový vstup by měl výstup vypadat takto:
 
 ```
 
