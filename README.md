@@ -40,4 +40,4 @@ Poznámky
 - Program musí být implementován v jazyce Java.
 - Je povoleno použít libovolné knihovny, jejich použití je ale třeba vysvětlit a obhájit.
 - Zádání záměrně není příliš striktní. V případě nejasností je možné se rozhodnout dle vlastního úsudku nebo napsat.
-- Implementace by neměla zabrat více, než 3 až 4 hodiny.
+- Implementace by neměla zabrat více než 3 až 4 hodiny.
